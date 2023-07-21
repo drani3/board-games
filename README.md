@@ -1,5 +1,6 @@
 # board-games
 
-Also working on :
+Adding next: 
 
 Checkers (minimax)
+Also working on an overall gui to combine all  games
